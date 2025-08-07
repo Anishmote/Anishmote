@@ -20,7 +20,7 @@
 
 - 🎯 [Guess the Number](https://github.com/Anishmote/guess-the-number) — A CLI number guessing game using Python and loops
 - 🧮 [Python Calculator](https://github.com/Anishmote/Python-Calculator) — Command-line calculator with input validation
-- - 🪨 [Stone-Paper-Ceaser](https://github.com/anishmote/Stone-Paper-Ceaser) — A fun CLI-based rock-paper-scissors game made with Python and emoji-enhanced output.
+- ✂️ [Stone-Paper-Ceaser](https://github.com/anishmote/Stone-Paper-Ceaser) — A fun CLI-based rock-paper-scissors game made with Python and emoji-enhanced output.
 
 
 ---
