@@ -13,7 +13,7 @@
 - 🧮 Problem Solving using basic algorithms
 - 🔢 Math foundations for AI/ML
 - 💻 Git & GitHub (for version control)
-- Ai-chat bot
+- 📲Ai-chat bot
 - 🤖 Jarvis – AI Powered Voice Assistant  
 
 ---
