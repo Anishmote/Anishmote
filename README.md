@@ -32,7 +32,7 @@
 - Python data types, loops, and functions
 - Logic building and error handling
 - Git & GitHub workflows
-- Basics of NumPy (coming soon...)
+- AI/ML foundation
 
 ---
 
@@ -44,7 +44,7 @@
 
 ## 📬 Let's Connect
 
-- 📫 Reach me at: **anishmote@gmail.com**
+- 📫 Reach me at: **amote465@gmail.com**
 - 🤝 Open to learning, guidance, and future collaborations!
 
 ---
